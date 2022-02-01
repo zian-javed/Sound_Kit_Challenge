@@ -1,0 +1,93 @@
+body{
+background-color: azure;
+}
+
+html {
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+*,
+*:before,
+*:after {
+box-sizing: inherit;
+}
+
+
+.firstContainer{
+    height: 40vh;
+   
+}
+
+.banner {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    height: 30vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title h1{
+    padding: 40px 480px;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.534);
+    background-color: rgb(80, 42, 253);
+    color: white;
+}
+
+.secondContainer{
+    height: 60vh;
+   
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pokemon1, .pokemon2, .pokemon3, .pokemon4, .pokemon5, .pokemon6, .pokemon7, .pokemon8{
+    
+    height: 30vh;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+
+.pokemon1:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon2:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon3:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon4:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon5:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon6:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon7:hover{
+    padding-bottom: 50px;
+    
+}
+.pokemon8:hover{
+    padding-bottom: 50px;
+    
+}
