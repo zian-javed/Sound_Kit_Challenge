@@ -25,7 +25,7 @@ box1.addEventListener("click", () =>{
     pokemon1.pause();
     pokemon1.currrentTime = 0;
     pokemon1.play();
-    box1.animate();
+    // box1.animate();
 
 })
 
@@ -33,48 +33,41 @@ box2.addEventListener("click", () =>{
     pokemon2.pause();
     pokemon2.currrentTime = 0;
     pokemon2.play();
-    box2.animate();
 
 })
 box3.addEventListener("click", () =>{
     pokemon3.pause();
     pokemon3.currrentTime = 0;
     pokemon3.play();
-    box3.animate();
 
 })
 box4.addEventListener("click", () =>{
     pokemon4.pause();
     pokemon4.currrentTime = 0;
     pokemon4.play();
-    box4.animate();
 
 })
 box5.addEventListener("click", () =>{
     pokemon5.pause();
     pokemon5.currrentTime = 0;
     pokemon5.play();
-    box5.animate();
 
 })
 box6.addEventListener("click", () =>{
     pokemon6.pause();
     pokemon6.currrentTime = 0;
     pokemon6.play();
-    box6.animate();
 
 })
 box7.addEventListener("click", () =>{
     pokemon7.pause();
     pokemon7.currrentTime = 0;
     pokemon7.play();
-    box7.animate();
 
 })
 box8.addEventListener("click", () =>{
     pokemon8.pause();
     pokemon8.currrentTime = 0;
     pokemon8.play();
-    box8.animate();
 
 })
